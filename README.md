@@ -1,0 +1,2 @@
+# ConsumerDrivenContractService
+Playground for CDC.
