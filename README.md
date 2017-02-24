@@ -1,7 +1,7 @@
 # ConsumerDrivenContractService
 Playground for CDC.
 
-Creating one microservice is cool - integrating and orchestrating microservices might turn to nightmare.
+Creating one microservice is cool. Integrating and orchestrating microservices might turn to nightmare.
 Consumer Driven Contracts might be a solution. I want to try it out and here is my work in progress.
 
 I base this adventure on [Spring Rest Docs](http://docs.spring.io/spring-restdocs/docs/current/reference/html5/) with a plan to involve [Spring Cloud Contract](https://cloud.spring.io/spring-cloud-contract/spring-cloud-contract.html).
